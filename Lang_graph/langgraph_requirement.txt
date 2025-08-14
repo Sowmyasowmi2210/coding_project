@@ -1,0 +1,5 @@
+
+pip install -U langgraph
+pip install langchain
+pip install -U langchain-anthropic
+pip install -U langchain langchain-community

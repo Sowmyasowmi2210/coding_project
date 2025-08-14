@@ -1,0 +1,2 @@
+- spacy and nltk 
+- spacy sentence tokenization and word tokenization can be done using spacy.
